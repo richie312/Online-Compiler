@@ -1,0 +1,1 @@
+['Experience', 'Learning', 'ability', 'ai', 'an', 'and', 'application', 'artificial', 'automatically', 'being', 'explicitly', 'from', 'improve', 'intelligence', 'is', 'learn', 'machine', 'of', 'programmed', 'provides', 'systems', 'that', 'the', 'to', 'without']

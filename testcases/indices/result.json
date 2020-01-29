@@ -1,0 +1,688 @@
+{
+  "4672648": {
+    "compiler": {
+      "id": 116, 
+      "name": "Python 3.x", 
+      "version": {
+        "id": 1, 
+        "name": "python 3.5.3"
+      }
+    }, 
+    "date": "2019-11-08 07:52:21 +00:00", 
+    "executing": false, 
+    "id": 4672648, 
+    "problem": {
+      "code": "XMWLQ10I89", 
+      "id": 28841, 
+      "name": "First Reverse", 
+      "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/problems/28841?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+    }, 
+    "result": {
+      "memory": 0, 
+      "score": 0, 
+      "signal": 0, 
+      "signal_desc": "", 
+      "status": {
+        "code": 14, 
+        "name": "wrong answer"
+      }, 
+      "streams": {
+        "cmpinfo": {
+          "size": 0, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672648/cmpinfo?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "debug": {
+          "size": 267, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672648/debug?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "error": {
+          "size": 524, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672648/error?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "output": {
+          "size": 76, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672648/output?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "source": {
+          "size": 220, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672648/source?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }
+      }, 
+      "testcases": [
+        {
+          "memory": 27712, 
+          "number": 0, 
+          "score": 0, 
+          "signal": -1, 
+          "signal_desc": "Non-zero exit code was returned by program.", 
+          "status": {
+            "code": 12, 
+            "name": "runtime error"
+          }, 
+          "time": 0.01
+        }, 
+        {
+          "memory": 27712, 
+          "number": 1, 
+          "score": 0, 
+          "signal": -1, 
+          "signal_desc": "Non-zero exit code was returned by program.", 
+          "status": {
+            "code": 12, 
+            "name": "runtime error"
+          }, 
+          "time": 0.02
+        }, 
+        {
+          "memory": 27712, 
+          "number": 2, 
+          "score": 0, 
+          "signal": -1, 
+          "signal_desc": "Non-zero exit code was returned by program.", 
+          "status": {
+            "code": 12, 
+            "name": "runtime error"
+          }, 
+          "time": 0.02
+        }, 
+        {
+          "memory": 27704, 
+          "number": 9, 
+          "score": 0, 
+          "signal": -1, 
+          "signal_desc": "Non-zero exit code was returned by program.", 
+          "status": {
+            "code": 12, 
+            "name": "runtime error"
+          }, 
+          "time": 0.02
+        }
+      ], 
+      "time": 0
+    }
+  }, 
+  "4672667": {
+    "compiler": {
+      "id": 116, 
+      "name": "Python 3.x", 
+      "version": {
+        "id": 1, 
+        "name": "python 3.5.3"
+      }
+    }, 
+    "date": "2019-11-08 07:57:39 +00:00", 
+    "executing": false, 
+    "id": 4672667, 
+    "problem": {
+      "code": "XMWLQ10I89", 
+      "id": 28841, 
+      "name": "First Reverse", 
+      "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/problems/28841?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+    }, 
+    "result": {
+      "memory": 0, 
+      "score": 0, 
+      "signal": 0, 
+      "signal_desc": "", 
+      "status": {
+        "code": 11, 
+        "name": "compilation error"
+      }, 
+      "streams": {
+        "cmpinfo": {
+          "size": 794, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672667/cmpinfo?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "debug": null, 
+        "error": null, 
+        "output": null, 
+        "source": {
+          "size": 232, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672667/source?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }
+      }, 
+      "testcases": null, 
+      "time": 0
+    }
+  }, 
+  "4672670": {
+    "compiler": {
+      "id": 116, 
+      "name": "Python 3.x", 
+      "version": {
+        "id": 1, 
+        "name": "python 3.5.3"
+      }
+    }, 
+    "date": "2019-11-08 08:01:51 +00:00", 
+    "executing": false, 
+    "id": 4672670, 
+    "problem": {
+      "code": "XMWLQ10I89", 
+      "id": 28841, 
+      "name": "First Reverse", 
+      "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/problems/28841?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+    }, 
+    "result": {
+      "memory": 0, 
+      "score": 0, 
+      "signal": 0, 
+      "signal_desc": "", 
+      "status": {
+        "code": 11, 
+        "name": "compilation error"
+      }, 
+      "streams": {
+        "cmpinfo": {
+          "size": 794, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672670/cmpinfo?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "debug": null, 
+        "error": null, 
+        "output": null, 
+        "source": {
+          "size": 232, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672670/source?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }
+      }, 
+      "testcases": null, 
+      "time": 0
+    }
+  }, 
+  "4672774": {
+    "compiler": {
+      "id": 116, 
+      "name": "Python 3.x", 
+      "version": {
+        "id": 1, 
+        "name": "python 3.5.3"
+      }
+    }, 
+    "date": "2019-11-08 08:38:55 +00:00", 
+    "executing": false, 
+    "id": 4672774, 
+    "problem": {
+      "code": "XMWLQ10I89", 
+      "id": 28841, 
+      "name": "First Reverse", 
+      "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/problems/28841?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+    }, 
+    "result": {
+      "memory": 0, 
+      "score": 0, 
+      "signal": 0, 
+      "signal_desc": "", 
+      "status": {
+        "code": 11, 
+        "name": "compilation error"
+      }, 
+      "streams": {
+        "cmpinfo": {
+          "size": 794, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672774/cmpinfo?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "debug": null, 
+        "error": null, 
+        "output": null, 
+        "source": {
+          "size": 232, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672774/source?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }
+      }, 
+      "testcases": null, 
+      "time": 0
+    }
+  }, 
+  "4672918": {
+    "compiler": {
+      "id": 116, 
+      "name": "Python 3.x", 
+      "version": {
+        "id": 1, 
+        "name": "python 3.5.3"
+      }
+    }, 
+    "date": "2019-11-08 09:48:33 +00:00", 
+    "executing": false, 
+    "id": 4672918, 
+    "problem": {
+      "code": "XMWLQ10I89", 
+      "id": 28841, 
+      "name": "First Reverse", 
+      "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/problems/28841?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+    }, 
+    "result": {
+      "memory": 0, 
+      "score": 0, 
+      "signal": 0, 
+      "signal_desc": "", 
+      "status": {
+        "code": 11, 
+        "name": "compilation error"
+      }, 
+      "streams": {
+        "cmpinfo": {
+          "size": 794, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672918/cmpinfo?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "debug": null, 
+        "error": null, 
+        "output": null, 
+        "source": {
+          "size": 238, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672918/source?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }
+      }, 
+      "testcases": null, 
+      "time": 0
+    }
+  }, 
+  "4672939": {
+    "compiler": {
+      "id": 116, 
+      "name": "Python 3.x", 
+      "version": {
+        "id": 1, 
+        "name": "python 3.5.3"
+      }
+    }, 
+    "date": "2019-11-08 09:55:44 +00:00", 
+    "executing": false, 
+    "id": 4672939, 
+    "problem": {
+      "code": "XMWLQ10I89", 
+      "id": 28841, 
+      "name": "First Reverse", 
+      "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/problems/28841?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+    }, 
+    "result": {
+      "memory": 27712, 
+      "score": 100, 
+      "signal": 0, 
+      "signal_desc": "", 
+      "status": {
+        "code": 15, 
+        "name": "accepted"
+      }, 
+      "streams": {
+        "cmpinfo": {
+          "size": 0, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672939/cmpinfo?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "debug": {
+          "size": 339, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672939/debug?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "error": {
+          "size": 76, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672939/error?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "output": {
+          "size": 204, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672939/output?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "source": {
+          "size": 176, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4672939/source?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }
+      }, 
+      "testcases": [
+        {
+          "memory": 27712, 
+          "number": 0, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.02
+        }, 
+        {
+          "memory": 27712, 
+          "number": 1, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.01
+        }, 
+        {
+          "memory": 27696, 
+          "number": 2, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.02
+        }, 
+        {
+          "memory": 27712, 
+          "number": 9, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.01
+        }
+      ], 
+      "time": 0.06
+    }
+  }, 
+  "4745238": {
+    "compiler": {
+      "id": 116, 
+      "name": "Python 3.x", 
+      "version": {
+        "id": 1, 
+        "name": "python 3.5.3"
+      }
+    }, 
+    "date": "2019-11-13 05:54:56 +00:00", 
+    "executing": false, 
+    "id": 4745238, 
+    "problem": {
+      "code": "XMWLQ10I89", 
+      "id": 28841, 
+      "name": "First Reverse", 
+      "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/problems/28841?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+    }, 
+    "result": {
+      "memory": 27712, 
+      "score": 100, 
+      "signal": 0, 
+      "signal_desc": "", 
+      "status": {
+        "code": 15, 
+        "name": "accepted"
+      }, 
+      "streams": {
+        "cmpinfo": {
+          "size": 0, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745238/cmpinfo?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "debug": {
+          "size": 339, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745238/debug?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "error": {
+          "size": 76, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745238/error?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "output": {
+          "size": 204, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745238/output?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "source": {
+          "size": 173, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745238/source?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }
+      }, 
+      "testcases": [
+        {
+          "memory": 27712, 
+          "number": 0, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.01
+        }, 
+        {
+          "memory": 27696, 
+          "number": 1, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.02
+        }, 
+        {
+          "memory": 27704, 
+          "number": 2, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.01
+        }, 
+        {
+          "memory": 27712, 
+          "number": 9, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.02
+        }
+      ], 
+      "time": 0.06
+    }
+  }, 
+  "4745274": {
+    "compiler": {
+      "id": 116, 
+      "name": "Python 3.x", 
+      "version": {
+        "id": 1, 
+        "name": "python 3.5.3"
+      }
+    }, 
+    "date": "2019-11-13 06:17:55 +00:00", 
+    "executing": false, 
+    "id": 4745274, 
+    "problem": {
+      "code": "XMWLQ10I89", 
+      "id": 28841, 
+      "name": "First Reverse", 
+      "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/problems/28841?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+    }, 
+    "result": {
+      "memory": 27712, 
+      "score": 100, 
+      "signal": 0, 
+      "signal_desc": "", 
+      "status": {
+        "code": 15, 
+        "name": "accepted"
+      }, 
+      "streams": {
+        "cmpinfo": {
+          "size": 0, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745274/cmpinfo?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "debug": {
+          "size": 339, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745274/debug?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "error": {
+          "size": 76, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745274/error?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "output": {
+          "size": 204, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745274/output?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "source": {
+          "size": 173, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745274/source?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }
+      }, 
+      "testcases": [
+        {
+          "memory": 27704, 
+          "number": 0, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.01
+        }, 
+        {
+          "memory": 27680, 
+          "number": 1, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.01
+        }, 
+        {
+          "memory": 27704, 
+          "number": 2, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.01
+        }, 
+        {
+          "memory": 27712, 
+          "number": 9, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.02
+        }
+      ], 
+      "time": 0.05
+    }
+  }, 
+  "4745279": {
+    "compiler": {
+      "id": 116, 
+      "name": "Python 3.x", 
+      "version": {
+        "id": 1, 
+        "name": "python 3.5.3"
+      }
+    }, 
+    "date": "2019-11-13 06:18:54 +00:00", 
+    "executing": false, 
+    "id": 4745279, 
+    "problem": {
+      "code": "XMWLQ10I89", 
+      "id": 28841, 
+      "name": "First Reverse", 
+      "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/problems/28841?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+    }, 
+    "result": {
+      "memory": 27712, 
+      "score": 100, 
+      "signal": 0, 
+      "signal_desc": "", 
+      "status": {
+        "code": 15, 
+        "name": "accepted"
+      }, 
+      "streams": {
+        "cmpinfo": {
+          "size": 0, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745279/cmpinfo?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "debug": {
+          "size": 339, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745279/debug?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "error": {
+          "size": 76, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745279/error?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "output": {
+          "size": 204, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745279/output?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }, 
+        "source": {
+          "size": 173, 
+          "uri": "https://b47c8916.problems.sphere-engine.com/api/v4/submissions/4745279/source?access_token=4c1e602f25ea827d81f3f84dbdbd9527"
+        }
+      }, 
+      "testcases": [
+        {
+          "memory": 27712, 
+          "number": 0, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.02
+        }, 
+        {
+          "memory": 27704, 
+          "number": 1, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.01
+        }, 
+        {
+          "memory": 27704, 
+          "number": 2, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.01
+        }, 
+        {
+          "memory": 27712, 
+          "number": 9, 
+          "score": 0, 
+          "signal": 0, 
+          "signal_desc": "", 
+          "status": {
+            "code": 15, 
+            "name": "accepted"
+          }, 
+          "time": 0.02
+        }
+      ], 
+      "time": 0.06
+    }
+  }
+}

@@ -1,0 +1,1 @@
+source /home/cnadmin/skillz/aws_skillz/bin/activate

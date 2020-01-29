@@ -1,0 +1,58 @@
+<h1>Minesweeper</h1>
+
+This challenge is based on the game Minesweeper.
+
+Create a function "num_grid(list)" that takes a list of "+" and "-", where each "+" represents a mine and each dash "-" 
+represents a mine-free spot. Return a list where each dash is replaced by a digit indicating the number 
+of mines immediately adjacent to the spot (horizontally, vertically, and diagonally).
+
+<h4>Examples</h4>
+<code>
+<ul>
+  <ul>num_grid([</ul>
+  <ul>["-", "-", "-", "-", "-"],</ul>
+  <ul>["-", "-", "-", "-", "-"],</ul>
+  <ul>["-", "-", "+", "-", "-"],</ul>
+  <ul>["-", "-", "-", "-", "-"],</ul>
+  <ul>["-", "-", "-", "-", "-"]</ul>
+<ul>]) => [</ul>
+  <ul>["0", "0", "0", "0", "0"],</ul>
+  <ul>["0", "1", "1", "1", "0"],</ul>
+  <ul>["0", "1", "+", "1", "0"],</ul>
+  <ul>["0", "1", "1", "1", "0"],</ul>
+  <ul>["0", "0", "0", "0", "0"]</ul>
+<ul>]</ul>
+</ul>
+</code>
+
+<h4>Test Cases:</h4>
+
+<li id="input_1">Input: ([
+  ["-", "-", "-", "-", "+"],
+  ["-", "-", "-", "-", "-"],
+  ["-", "-", "+", "-", "-"],
+  ["-", "-", "-", "-", "-"],
+  ["+", "-", "-", "-", "-"]
+]</li>
+<li id="output_1">Output: [
+  ["0", "0", "0", "1", "+"],
+  ["0", "1", "1", "2", "1"],
+  ["0", "1", "+", "1", "0"],
+  ["1", "2", "1", "1", "0"],
+  ["+", "1", "0", "0", "0"]
+]</li>
+
+<li id="input_2">Input: [
+  ["-", "-", "-", "+", "+"],
+  ["-", "+", "-", "-", "-"],
+  ["-", "-", "+", "-", "-"],
+  ["-", "+", "+", "-", "-"],
+  ["-", "-", "-", "-", "-"]
+]</li>
+<li id="output_2">Output: [
+  ["1", "1", "2", "+", "+"],
+  ["1", "+", "3", "3", "2"],
+  ["2", "4", "+", "2", "0"],
+  ["1", "+", "+", "2", "0"],
+  ["1", "2", "2", "1", "0"]
+]</li>

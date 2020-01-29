@@ -1,0 +1,2 @@
+"I am testing my skill on skillsz"|9
+"Python on linux is the best combination among other possible alternatives"|20

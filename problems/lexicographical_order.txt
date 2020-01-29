@@ -1,0 +1,18 @@
+Lexical order
+
+Sort a sentence or group of words in lexical order. If any word is starting with a capital letter then it will appear 
+first in lexical order and then words starting with small letters in similar terms.
+
+Example
+
+Input
+
+"hello Python program how are you"
+
+Output
+
+[Python,are,hello,how,program,you"]
+
+Function
+
+Define a function which takes string as an input and returns output of list of sorted words in lexical order.

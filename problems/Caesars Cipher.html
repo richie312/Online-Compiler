@@ -1,0 +1,36 @@
+<h1>Caesar's Cipher</h1>
+
+Julius Caesar protected his confidential information by encrypting it using a cipher. Caesar's cipher 
+(check Resources tab for more info) shifts each letter by a number of letters. If the shift takes you 
+past the end of the alphabet, just rotate back to the front of the alphabet. In the case of a rotation 
+by 3, w, x, y and z would map to z, a, b and c.
+
+Create a function that takes a string s (text to be encrypted) and an integer k (the rotation factor). 
+It should return an encrypted string.
+
+<h5>Notes</h5>
+
+Test input will be a valid ASCII string without any spaces.
+
+<h5>Examples</h5>
+
+caesar_cipher("middle-Outz", 2) => "okffng-Qwvb"
+
+<ul># m -> o</ul>
+<ul># i -> k</ul>
+<ul># d -> f</ul>
+<ul># d -> f</ul>
+<ul># l -> n</ul>
+<ul># e -> g</ul>
+<ul># -    -</ul>
+<ul># O -> Q</ul>
+<ul># u -> w</ul>
+<ul># t -> v</ul>
+<ul># z -> b</ul>
+
+<h4>Test Cases</h4>
+<li id="input_1">Input: "Always-Look-on-the-Bright-Side-of-Life", 5</li>
+<li id="output_1">Output: "Fqbfdx-Qttp-ts-ymj-Gwnlmy-Xnij-tk-Qnkj"</li>
+
+<li id="input_2">Input: "A friend in need is a friend indeed", 20</li>
+<li id="output_2">Output: "U zlcyhx ch hyyx cm u zlcyhx chxyyx"</li>

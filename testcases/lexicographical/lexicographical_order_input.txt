@@ -1,0 +1,1 @@
+machine Learning is an application of artificial intelligence (ai) that provides systems the ability to automatically learn and improve from Experience without being explicitly programmed

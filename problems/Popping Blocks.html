@@ -1,0 +1,43 @@
+<h1>Popping Blocks</h1>
+
+When two blocks of the same "type" are adjacent to each other, the entire contiguous block disappears (pops off). 
+If this occurs, this can allow previously separated blocks to be in contact with each other, setting off a chain 
+reaction. This will continue until each block is surrounded by a different block.
+
+<h4>Demonstration 1:</h5>
+
+<ul>["A", "B", "C", "C", "B", "D", "A"]
+# The two adjacent Cs pop off</ul>
+
+<ul>["A", "B", "B", "D", "A"]
+# Two adjacent Bs pop off</ul>
+
+<ul>["A", "D", "A"]
+# No more blocks can be popped off</ul>
+
+<h4>Demonstration 2:</h4>
+
+<ul>["A", "B", "A", "A", "A", "B", "B"]
+# The three adjacent As will pop off
+# (before the two adjacent Bs)</ul>
+
+<ul>["A", "B", "B", "B"]
+# 3 adjacent Bs pop off</ul>
+
+<ul>["A"]
+# Final result</ul>
+
+<h4>Notes</h4>
+<p>If the first round has multiple poppable blocks, pop starting from the left.</p>
+
+
+<h4>Test Cases</h4>
+
+<li id="input_1">Input: ["B", "B", "A", "C", "A", "A", "C"]</li>
+<li id="output_1">Output: ["A"]</li>
+
+<li id="input_2">Input: ["B", "B", "C", "C", "A", "A", "A"]</li>
+<li id="output_2">Output: []</li>
+
+<li id="input_3">Input: ["C", "A", "C"]</li>
+<li id="output_3">Output: ["C", "A", "C"]</li>
